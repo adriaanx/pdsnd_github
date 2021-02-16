@@ -11,4 +11,4 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-Thanks a lot
+Thanks a lot!
