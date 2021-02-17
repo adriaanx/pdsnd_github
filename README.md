@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Created 17.02.2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Learning to use git hub to track my progress on my bikeshare file.
 
 ### Files used
-python file
+bikeshare.py
 
 ### Credits
-Thanks a lot!
+Thanks a lot UDacity!
